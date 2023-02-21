@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.grid{
+  brder:'1px solid', 
+  padding:'10px'
+}
